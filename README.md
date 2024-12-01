@@ -7,13 +7,6 @@ Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automati
 ### Domains
 Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
 
-
-## Education
-- BA Communication Research, University of the Philippines Diliman (2018)
-- Data Science Industry Apprenticeship, Eskwelabs (2023)								       		
-- Data Science Fellowship, Eskwelabs (2022)	 			        		
-- Data Analytics Bootcamp, Eskwelabs (2021)
-
 ## Work Experience
 - Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)
 - Junior Data Scientist - Regional Data Science Hub @ Isentia (_2021-2023_)
@@ -67,6 +60,13 @@ Data Science Industry Apprenticeship (2022)
 
 ### Client Segmentation by Cost-Profit Analysis
 Data Analytics Bootcamp Capstone Project (2021)
+
+## Education
+- BA Communication Research, University of the Philippines Diliman (2018)
+- Data Science Industry Apprenticeship, Eskwelabs (2023)								       		
+- Data Science Fellowship, Eskwelabs (2022)	 			        		
+- Data Analytics Bootcamp, Eskwelabs (2021)
+
 
 - Developed client segmentation of partner start-up's customer roster through cost-profit analysis
 - Recommended client partnership strategies based on resulting client groups
