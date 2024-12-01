@@ -1,39 +1,32 @@
 ### Technical Skills
-- Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
+Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
 
 ### Key Strengths
-- Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
+Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
 
 ### Domains
-- Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
+Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
 
 
 ## Education
-
-
 - BA Communication Research, University of the Philippines Diliman (2018)
 - Data Science Industry Apprenticeship, Eskwelabs (2023)								       		
 - Data Science Fellowship, Eskwelabs (2022)	 			        		
 - Data Analytics Bootcamp, Eskwelabs (2021)
 
-## Data Science & Analytics PH Community Involvement
-
-
-- Support Instructor, FTW Foundation (2024)
-- Panelist, Eskwelabs Data Science Fellowship (2024)
-- Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
-
 ## Work Experience
-
-
 - Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)
 - Junior Data Scientist - Regional Data Science Hub @ Isentia (_2021-2023_)
 - Digital Market Researcher - Data Science Team @ SQREEM Technologies (_2020-2021_)
 - Research Assistant - Market Strategy & Understanding Line @ Ipsos (_2020_)
 - Market Research Intern @ GfK Custom Research (_2015_)
 
+## Data Science & Analytics PH Community Involvement
+- Support Instructor, FTW Foundation (2024)
+- Panelist, Eskwelabs Data Science Fellowship (2024)
+- Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
 
-## Projects
+## Bootcamp & Personal Projects
 ### W/Heath: A data-driven approach to optimize limited resources of LGUs and NGOs
 [Eskwelabs Data Science Fellowship: Sprint 1](https://docs.google.com/presentation/d/16n3iqpbWyFL0vcPoD4dIZhlVr3m_XK90WjfohJL2NJU/edit?usp=sharing)
 
