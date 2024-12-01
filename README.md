@@ -14,8 +14,8 @@ Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
 - Research Assistant - Market Strategy & Understanding Line @ Ipsos (_2020_)
 - Market Research Intern @ GfK Custom Research (_2015_)
 
-## Data Science & Analytics PH Community Involvement
-- Support Instructor, FTW Foundation (2024)
+## Community Involvement
+- Volunteer Support Instructor, FTW Foundation (2024)
 - Panelist, Eskwelabs Data Science Fellowship (2024)
 - Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
 
