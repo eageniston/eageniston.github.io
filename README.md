@@ -8,11 +8,10 @@ Recently, I've started teaching not only as a way to grow more confident in my w
 
 I heard we could create online portfolios on GitHub - so please consider this site a work in progress. I look forward to learning how to visualize on this platform.
 
-- [Companies I've worked with](#companies-i've-worked-with)
+- [Companies I've worked with](#companies-ive-worked-with)
 - [Some teaching stints](#some-teaching-stints)
 - [Some data science & analytics projects](#some-bootcamp-projects)
 - [Some educational background](#some-educational-background)
-
 
 ## Overview
 
