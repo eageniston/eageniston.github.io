@@ -6,10 +6,10 @@ Recently, I've started teaching as a way to not only grow more confident in my w
 
 I heard we could create online portfolios on GitHub - so please consider this site a work in progress. I look forward to learning how to visualize on this platform.
 
-- [Companies I've worked with](https://github.com/eageniston/eageniston.github.io/edit/main/README.md#technical-skills)
-- [Some teaching stints](https://github.com/eageniston/eageniston.github.io/edit/main/README.md#community-involvement)
-- [Some data science & analytics projects](https://github.com/eageniston/eageniston.github.io/edit/main/README.md#bootcamp--personal-projects)
-- [Some educational background](https://github.com/eageniston/eageniston.github.io/edit/main/README.md#community-involvement/)
+- [Companies I've worked with](#Companies-I've-worked-with)
+- [Some teaching stints](#Some-teaching-stints)
+- [Some data science & analytics projects](#Some-bootcamp-projects)
+- [Some educational background](#Some-educational-background)
 
 
 ## Overview
