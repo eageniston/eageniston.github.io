@@ -60,6 +60,8 @@ Data Science Industry Apprenticeship (2022)
 
 ### Client Segmentation by Cost-Profit Analysis
 Data Analytics Bootcamp Capstone Project (2021)
+- Developed client segmentation of partner start-up's customer roster through cost-profit analysis
+- Recommended client partnership strategies based on resulting client groups
 
 ## Education
 - BA Communication Research, University of the Philippines Diliman (2018)
@@ -68,5 +70,3 @@ Data Analytics Bootcamp Capstone Project (2021)
 - Data Analytics Bootcamp, Eskwelabs (2021)
 
 
-- Developed client segmentation of partner start-up's customer roster through cost-profit analysis
-- Recommended client partnership strategies based on resulting client groups
