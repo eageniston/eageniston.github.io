@@ -1,5 +1,5 @@
 # DATA SCIENCE & ANALYTICS: STORYTELLING & VISUALIZATION
-Efficiency in automation and delivering business value
+## Efficiency in automation and delivering business value
 
 
 - Technical Skills: Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
@@ -8,18 +8,21 @@ Efficiency in automation and delivering business value
 
 ## Education
 
-- BA Communication Research, University of the Philippines Diliman (_2018_)
-- Data Science Industry Apprenticeship, Eskwelabs (_2023_)								       		
-- Data Science Fellowship, Eskwelabs (_2022_)	 			        		
-- Data Analytics Bootcamp, Eskwelabs (_2021_)
+
+- BA Communication Research, University of the Philippines Diliman (2018)
+- Data Science Industry Apprenticeship, Eskwelabs (2023)								       		
+- Data Science Fellowship, Eskwelabs (2022)	 			        		
+- Data Analytics Bootcamp, Eskwelabs (2021)
 
 ## Data Science & Analytics PH Community Involvement
+
 
 - Support Instructor, FTW Foundation (2024)
 - Panelist, Eskwelabs Data Science Fellowship (2024)
 - Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
 
 ## Work Experience
+
 
 - Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)**
 - Junior Data Scientist - Regional Data Science Hub @ Isentia (_2021-2023_)**
