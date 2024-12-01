@@ -1,8 +1,10 @@
-# Data Science and Analysis
+# DATA SCIENCE & ANALYTICS: STORYTELLING & VISUALIZATION
+Efficiency in automation and delivering business value
 
-#### Technical Skills: Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
-#### Domains: Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
-#### Key Strengths: Data Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
+
+- Technical Skills: Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
+- Domains: Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
+- Key Strengths: Data Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
 
 ## Education
 
