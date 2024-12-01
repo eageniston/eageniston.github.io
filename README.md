@@ -1,10 +1,12 @@
-# DATA SCIENCE & ANALYTICS: STORYTELLING & VISUALIZATION
-## Efficiency in automation and delivering business value
+### Technical Skills
+- Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
 
+### Key Strengths
+- Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
 
-- Technical Skills: Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
-- Domains: Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
-- Key Strengths: Data Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
+### Domains
+- Consumer Banking, Media Intelligence, Digital Marketing, Consumer Understanding
+
 
 ## Education
 
@@ -24,11 +26,11 @@
 ## Work Experience
 
 
-- Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)**
-- Junior Data Scientist - Regional Data Science Hub @ Isentia (_2021-2023_)**
-- Digital Market Researcher - Data Science Team @ SQREEM Technologies (_2020-2021_)**
-- Research Assistant - Market Strategy & Understanding Line @ Ipsos (_2020_)**
-- Market Research Intern @ GfK Custom Research (_2015_)**
+- Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)
+- Junior Data Scientist - Regional Data Science Hub @ Isentia (_2021-2023_)
+- Digital Market Researcher - Data Science Team @ SQREEM Technologies (_2020-2021_)
+- Research Assistant - Market Strategy & Understanding Line @ Ipsos (_2020_)
+- Market Research Intern @ GfK Custom Research (_2015_)
 
 
 ## Projects
