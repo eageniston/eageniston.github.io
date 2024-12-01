@@ -8,7 +8,6 @@ Recently, I've started teaching not only as a way to grow more confident in my w
 
 I heard we could create online portfolios on GitHub - so please consider this site a work in progress. I look forward to learning how to visualize on this platform.
 
-- [Companies I've worked with](#companies-ive-worked-with)
 - [Some teaching stints](#some-teaching-stints)
 - [Some data science & analytics projects](#some-bootcamp-projects)
 - [Some educational background](#some-educational-background)
@@ -29,16 +28,6 @@ Technical Skills
 > Python, SQL, Power BI, AWS, GCP, API, Javascript, AppScript, Looker Studio
 
 * * * 
-
-## Companies I've worked with
-- Data Analyst, Assistant Manager @ Security Bank (2023 - Present)
-- Data Science Industry Apprenticeship, Eskwelbabs (2022-2023)
-- Junior Data Scientist - Regional Data Science Hub @ Isentia (2021-2023)
-- Digital Market Researcher - Data Science Team @ SQREEM Technologies (2020-2021)
-- Research Assistant - Market Strategy & Understanding Line @ Ipsos (2020)
-- Market Research Intern @ GfK Custom Research (2015)
-
-* * *
 
 ## Some teaching stints
 - **Volunteer Support Instructor**, [FTW Foundation](https://www.ftwfoundation.org/) Data Science Scholarship Program (2024)
