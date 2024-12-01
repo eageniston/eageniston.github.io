@@ -5,15 +5,17 @@
 #### Key Strengths: Data Visualization & Storytelling, Dashboarding, NLP, Custom Analysis, Cloud Automation (GCP)
 
 ## Education
-- BA Communication Research, University of the Philippines Diliman (_2018_)
-- Data Science Industry Apprenticeship, Eskwelabs (_2023_)								       		
-- Data Science Fellowship, Eskwelabs (_2022_)	 			        		
-- Data Analytics Bootcamp, Eskwelabs (_2021_)
+
+### BA Communication Research, University of the Philippines Diliman (_2018_)
+### Data Science Industry Apprenticeship, Eskwelabs (_2023_)								       		
+### Data Science Fellowship, Eskwelabs (_2022_)	 			        		
+### Data Analytics Bootcamp, Eskwelabs (_2021_)
 
 ## Data Science & Analytics PH Community Involvement
-- Support Instructor, FTW Foundation (2024)
-- Panelist, Eskwelabs Data Science Fellowship (2024)
-- Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
+
+### Support Instructor, FTW Foundation (2024)
+### Panelist, Eskwelabs Data Science Fellowship (2024)
+### Instructor & Curriculum Crafter, Security Bank Corporation - Data Science & AI Center for Excellence Division (2024)
 
 ## Work Experience
 **Data Analyst, Assistant Manager @ Security Bank (_2023 - Present_)**
