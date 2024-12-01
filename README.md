@@ -1,8 +1,10 @@
-I like to build and write stories from data. My favorite projects are those that have a meaningful impact-whether on lives or organizations.
+I like to build and write stories from data. My favorite projects are those that have a meaningful impact--whether on lives or organizations.
 
-I'm a **communication graduate who learned how to code**. That means my work is driven by the audience and user in mind upfront. I gained competencies by studying online resources, learning alongside amazing colleagues, and joining boot camps.
+I'm a **communication graduate who learned how to code**. That means my work is driven by the audience and user in mind upfront. 
 
-Recently, I've started teaching as a way to not only grow more confident in my work but also to meaningfully be a part of the Philippine data science and analytics industry. 
+I gained competencies by studying online resources, learning alongside amazing colleagues, and joining boot camps. I've been in the data science and analytics industry for 2-3 years. I can create dashboards, automation, and analyses, and present these to operations and key stakeholders.
+
+Recently, I've started teaching not only as a way to grow more confident in my work but also to contribute to the Philippine data science and analytics industry. 
 
 I heard we could create online portfolios on GitHub - so please consider this site a work in progress. I look forward to learning how to visualize on this platform.
 
