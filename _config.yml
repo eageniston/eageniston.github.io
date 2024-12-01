@@ -1,6 +1,5 @@
 title: Hello, I'm Eleanor
 logo: /assets/img/headshot_circle.png
-description: > 
-This is my <a href="https://eageniston.github.io/learn-with-me/">quick portfolio</a> and a dump of my <a href="https://eageniston.github.io/learn-with-me/")learning references></a>.
+description: This is my <a href="https://eageniston.github.io/learn-with-me/">quick portfolio</a> and a dump of my <a href="https://eageniston.github.io/learn-with-me/")learning references></a>.
 show_downloads: false
 theme: jekyll-theme-minimal
