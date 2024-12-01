@@ -13,6 +13,10 @@ I heard we could create online portfolios on GitHub - so please consider this si
 - [Some data science & analytics projects](#some-bootcamp-projects)
 - [Some educational background](#some-educational-background)
 
+Want to create your own portfolio too? I dumped my guides [here](https://eageniston.github.io/learn-with-me).
+
+Connect with me [here](linkedin.com/in/eageniston/)
+
 ## Overview
 
 Key Strengths
